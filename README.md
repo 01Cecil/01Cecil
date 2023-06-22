@@ -17,7 +17,7 @@
 
  <b>Python</b>
 
-- [Creating Automated Task using SQL ](https://github.com/01Cecil/SQL-Filters)
+- [Applied SQL Filters ](https://github.com/01Cecil/SQL-Filters)
 
 
 <h2> 🤳 Connect with me:</h2>
