@@ -15,7 +15,7 @@
 - [Giving file permissions using linux](https://github.com/01Cecil/Linux-file-permissions)
 
 
- <b>Python</b>
+ <b>SQL</b>
 
 - [Applied SQL Filters ](https://github.com/01Cecil/SQL-Filters)
 
