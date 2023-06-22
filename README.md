@@ -20,9 +20,13 @@
 - [Applied SQL Filters ](https://github.com/01Cecil/SQL-Filters)
 
 
+<b>Python</b>
+
+- [Automate task with Python](https://github.com/01Cecil/Automate-Task-Python)
+
 <h2> 🤳 Connect with me:</h2>
 
 
-- [Linkedin](https://www.linkedin.com/in/cecil-brooks-24a390252/)
+- [Linkedin](htts://www.linkedin.com/in/cecil-brooks-24a390252/)
 
 
