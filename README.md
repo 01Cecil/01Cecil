@@ -27,6 +27,5 @@
 <h2> 🤳 Connect with me:</h2>
 
 
-- [Linkedin](htts://www.linkedin.com/in/cecil-brooks-24a390252)
-
+- [LinkedIn](https://www.linkedin.com/in/cecil-brooks-24a390252/)
 
