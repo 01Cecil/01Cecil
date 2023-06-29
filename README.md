@@ -7,7 +7,7 @@
   <h2>👨‍💻 Cloud Projects:</h2>
 
   
-  - 🍯🐝[Creating live Soc/HoneyNet in Azure](https://github.com/01Cecil/Soc-Honeynet)🐝🍯
+  - <h1>🍯🐝<br/><a href="https://github.com/01Cecil/Soc-Honeynet">LIVE SOC HONEYNET</a>
   
  
  <b>Linux</b>
